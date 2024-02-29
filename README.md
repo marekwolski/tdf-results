@@ -14,7 +14,7 @@ For each year from 2012 to 2023 there are three worksheets:
 where xx is '12' to '23'.
 
 ## Worksheet Schemas
-### Results
+### 1. Results
 
 Row 1 is an overall/title row.
 Row 2 contains the column headers:
@@ -26,12 +26,12 @@ Row 2 contains the column headers:
 - White Jersey
 Row 3 onwards contain the winners.
 
-### Stages
+### 2. Stages
 
-### Start List
+### 3. Start List
 
 
-### Useful references for working with XLS in Python
+## Useful references for working with XLS in Python
 
 - https://www.dataquest.io/blog/reading-excel-file-python/  (uses Pandas)
 - https://www.datacamp.com/tutorial/python-excel-tutorial   (uses Openpyxl)
