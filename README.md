@@ -16,15 +16,16 @@ where xx is '12' to '23'.
 ## Worksheet Schemas
 ### 1. Results
 
-Row 1 is an overall/title row.
-Row 2 contains the column headers:
-- Stage
-- Stage Winner
-- Yellow Jersey
-- Green Jersey
-- Polka-Dot Jersey
-- White Jersey
-Row 3 onwards contain the winners.
+- Row 1 is an overall/title row.
+- Row 2 contains the column headers:
+  - Stage
+  - Stage Winner
+  - Yellow Jersey
+  - Green Jersey
+  - Polka-Dot Jersey
+  - White Jersey
+Rows 3 and onwards contain the winners.
+Note that Stage 21 (the final stage) will record the stage winner and the overall jersey winners.
 
 ### 2. Stages
 
