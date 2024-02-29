@@ -24,6 +24,7 @@ where xx is '12' to '23'.
   - Green Jersey
   - Polka-Dot Jersey
   - White Jersey
+
 Rows 3 and onwards contain the winners.
 Note that Stage 21 (the final stage) will record the stage winner and the overall jersey winners.
 
