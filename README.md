@@ -4,8 +4,5 @@ Since 2012 I have been keeping a spreadsheet of results from each year's Tour de
 
 I plan to use Obsidian now for this sort of thing so I thought it might be fun and useful to extend my Python skills to extract the data from the XLS file and convert it into markdown files. So that's what this little project and repo are all about.
 
-See [[docs/READMORE.md]] in the docs folder.
-
-
-
+See [the READMORE doc](docs/READMORE.md) in the docs folder for more information about this project and its code.
 
